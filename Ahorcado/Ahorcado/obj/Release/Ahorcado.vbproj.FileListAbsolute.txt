@@ -1,0 +1,13 @@
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\bin\Release\Ahorcado.exe.config
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\bin\Release\Ahorcado.exe
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\bin\Release\Ahorcado.pdb
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\bin\Release\Ahorcado.xml
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.vbproj.AssemblyReference.cache
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.Form1.resources
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.Resources.resources
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.vbproj.GenerateResource.cache
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.vbproj.CoreCompileInputs.cache
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.exe
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.xml
+C:\Users\Black\Desktop\IAC\Practicas Resueltas\Ahorcado\Ahorcado\obj\Release\Ahorcado.pdb
